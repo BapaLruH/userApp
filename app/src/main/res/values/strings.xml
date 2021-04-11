@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UsersApp</string>
+
+    <string name="hello_blank_fragment">TODO</string>
+
+    <string name="unknownEmployeeId">Unknown employee ID</string>
+    <string name="unknownSpecialtyId">Unknown specialty ID</string>
+    <string name="retry_text">Retry</string>
+    <string name="full_name">%s %s</string>
+    <string name="label_birthday">birthday: %s</string>
+    <string name="label_age">age: %s</string>
+</resources>
